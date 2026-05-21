@@ -1,3 +1,11 @@
+# Spartan Coders :
+## 1. Satvik Chorge
+## 2. Manisha Palbabu
+## 3. Geet Rasane
+## 4. Soumya Mishra
+## 5. Arnav Chavan
+## 6. Shweta Vernerkar
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
